@@ -4,6 +4,12 @@ live demo: https://playful-crostata-b1396e.netlify.app
 
 This project is about e-commerce. In this project, i used React, Redux Toolkit, React Router and Local Storage. For the API data i used Fake Store API.
 
+## Project Pics
+![e-commerce-page](https://user-images.githubusercontent.com/103375946/190851960-e0f8c7e5-6ad0-4ee3-8195-35c063aae434.png)
+![e-commerce-page-2](https://user-images.githubusercontent.com/103375946/190851966-a3dc1301-3d93-44ba-b3f9-2544fa3a9022.png)
+![e-commerce-page-cart](https://user-images.githubusercontent.com/103375946/190851974-fe6563b1-4725-4991-be37-e75b252ac658.png)
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
