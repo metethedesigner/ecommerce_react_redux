@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# E-Commerce Project with React & Redux Toolkit
+
+live demo: https://playful-crostata-b1396e.netlify.app
+
+This project is about e-commerce. In this project, i used React, Redux Toolkit, React Router and Local Storage. For the API data i used Fake Store API.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
